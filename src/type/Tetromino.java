@@ -6,7 +6,7 @@ package type;
  * 每一个方块都是由4个格子构成
  */
 public abstract class Tetromino {
-    
+
 
 
 }
